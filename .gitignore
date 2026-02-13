@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# outputs / generated artifacts
+outputs/
+figures/*.png
+*_analysed_auto.csv
+
+# editor junk
+.vscode/
+.idea/
