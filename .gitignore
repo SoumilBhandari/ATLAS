@@ -10,12 +10,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Data (DO NOT COMMIT RAW DATA)
-MEP_Data/
-**/MEP_Data/
-data/
-datasets/
-
 # Outputs
 outputs/
 results/
